@@ -1,5 +1,26 @@
-cách chạy file
-b1: pip install requests bs4 asciimatics
-b2: python SPAM.py
-b3: nhập sđt cần spam
-b4: chọn thời gian spam(có thể = 0)
+cách chạy file trên google cloud.
+
+B1
+```
+git clone https://github.com/HldMC/spam-sms/
+```
+B2
+```
+pip install requests bs4 asciimatics
+```
+B3
+```
+cd spam-sms
+```
+B4: (đợi hơi lâu 1 chút)
+```
+python SPAM.py
+```
+B5
+```
+nhập sđt cần spam
+```
+B6
+```
+chọn thời gian spam(có thể = 0)
+```
